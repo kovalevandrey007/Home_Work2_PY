@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c27e744c-7aaf-4be2-b447-872ce42f625e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_2.2.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_2.2.12.py" afterDir="false" />
-    </list>
+    <list default="true" id="c27e744c-7aaf-4be2-b447-872ce42f625e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Task2.1.10" />
+                        <option value="Task2.2.12" />
                       </list>
                     </value>
                   </entry>
